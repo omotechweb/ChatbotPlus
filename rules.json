@@ -1,0 +1,127 @@
+[
+  {
+    "category": "Selamlaşma ve günlük ifadeler",
+    "input": ["merhaba", "selam", "slm", "nasılsın", "iyi misin", "günaydın", "iyi akşamlar"],
+    "response": "Selam! Nasılsın? Bugün nasıl gidiyor? 😊"
+  },
+  {
+    "category": "Onay ve ret",
+    "input": ["evet", "hayır", "olur", "olmaz", "tamam", "peki", "belki"],
+    "response": "Anladım! Peki, bu konuyla ilgili daha fazla düşünmek ister misin? 🤔"
+  },
+  {
+    "category": "Ruh hali",
+    "input": ["iyi", "kötü", "harika", "yorgun", "mutlu", "üzgün", "keyifli"],
+    "response": "Böyle hissetmene sevindim ya da üzüldüm. Bugün seni bu ruh haline getiren neydi? 💬"
+  },
+  {
+    "category": "Spor türleri",
+    "input": ["basketbol", "futbol", "voleybol", "tenis", "yüzme"],
+    "response": "Spor harika bir alışkanlık! Bu sporu yapıyor musun, yoksa izlemeyi mi seviyorsun? 🏀⚽"
+  },
+  {
+    "category": "Programlama dilleri",
+    "input": ["python", "java", "c++", "javascript", "programlama", "kodlama"],
+    "response": "Kod yazmak harika! Hangi dili öğreniyorsun ya da hangi konuda yardım istersin? 👨‍💻"
+  },
+  {
+    "category": "Sağlık ve yaşam tarzı",
+    "input": ["sağlık", "beslenme", "egzersiz", "yaşam tarzı", "diyet", "formda kalmak"],
+    "response": "Sağlıklı yaşamak önemli! En son ne zaman doğada yürüyüş yaptın? 🌿"
+  },
+  {
+    "category": "Seyahat ve gezi önerileri",
+    "input": ["seyahat", "tatil", "gezi", "rota", "tur", "gezmek"],
+    "response": "Seyahat etmek ruhu besler! Hayalindeki rota neresi? 🌍"
+  },
+  {
+    "category": "Bilim ve keşifler",
+    "input": ["bilim", "keşif", "deney", "araştırma", "teknoloji"],
+    "response": "Bilim dünyası etkileyici! En son hangi keşif ilgini çekti? 🔬"
+  },
+  {
+    "category": "Tarih ve kültür",
+    "input": ["tarih", "kültür", "medeniyet", "eski", "geçmiş"],
+    "response": "Geçmişi bilmek geleceği anlamak demek. Hangi dönem ilgini çekiyor? 🏛️"
+  },
+  {
+    "category": "Sanat ve müzik",
+    "input": ["sanat", "müzik", "resim", "şarkı", "film", "dizi"],
+    "response": "Sanat ruhun gıdasıdır! En sevdiğin sanat dalı nedir? 🎨🎶"
+  },
+  {
+    "category": "Spor ve fitness",
+    "input": ["spor", "fitness", "antrenman", "koşu", "yoga", "pilates"],
+    "response": "Hareket etmek sağlıklı yaşamın anahtarı! Bugün ne kadar aktif oldun? 💪"
+  },
+  {
+    "category": "Yemek tarifleri ve mutfak tüyoları",
+    "input": ["yemek", "tarif", "mutfak", "pasta", "çorba", "tatlı"],
+    "response": "Mutfakta olmak harika! Bugün ne pişirmeyi düşünüyorsun? 🍳"
+  },
+  {
+    "category": "Güncel haberler",
+    "input": ["haber", "güncel", "dünya", "son dakika"],
+    "response": "Dünya hızla değişiyor. Bugün seni en çok etkileyen haber neydi? 📰"
+  },
+  {
+    "category": "Psikoloji ve zihin sağlığı",
+    "input": ["psikoloji", "zihin", "moral", "stres", "anksiyete"],
+    "response": "Zihin sağlığı önemli! İstersen birkaç nefes egzersizi yapabiliriz. 🧘"
+  },
+  {
+    "category": "Eğitim ve öğrenme teknikleri",
+    "input": ["öğrenme", "eğitim", "kitap", "çalışmak", "ders"],
+    "response": "Öğrenmek hayat boyu süren bir yolculuk. Hangi konuda çalışıyorsun? 📚"
+  },
+  {
+    "category": "Dil öğrenme ipuçları",
+    "input": ["dil öğrenmek", "kelime", "konuşma", "gramer"],
+    "response": "Dil öğrenmek harika! Hangi dili öğrenmeye çalışıyorsun? 🗣️"
+  },
+  {
+    "category": "Çevre ve doğa",
+    "input": ["çevre", "doğa", "ekoloji", "ağaç", "hayvan"],
+    "response": "Doğa bizim evimiz. Bugün doğada zaman geçirme şansın oldu mu? 🌱"
+  },
+  {
+    "category": "Moda ve stil",
+    "input": ["moda", "stil", "giyim", "trend"],
+    "response": "Stil kişisel bir ifade biçimidir. Bugün hangi kombini tercih ettin? 👗"
+  },
+  {
+    "category": "Teknoloji trendleri",
+    "input": ["teknoloji", "cihaz", "akıllı telefon", "yapay zeka"],
+    "response": "Teknoloji hızla gelişiyor! Son takip ettiğin trend neydi? 🤖"
+  },
+  {
+    "category": "Günlük yaşam pratikleri",
+    "input": ["yaşam", "pratik", "günlük", "alışkanlık"],
+    "response": "Günlük yaşamı kolaylaştırmak harika! Hangi alışkanlığı geliştirmek istiyorsun? 🧠"
+  },
+  {
+    "category": "İlişkiler ve iletişim",
+    "input": ["ilişki", "arkadaş", "konuşmak", "iletişim"],
+    "response": "İyi iletişim çok önemlidir. Bugün biriyle güzel bir sohbet ettin mi? 💬"
+  },
+  {
+    "category": "Hobi ve el sanatları",
+    "input": ["hobi", "örgü", "bahçe", "el işi"],
+    "response": "Hobiler ruhu besler! Bugün bir şey üretmeyi düşündün mü? 🧶"
+  },
+  {
+    "category": "Astronomi ve uzay",
+    "input": ["uzay", "yıldız", "evren", "gezegen"],
+    "response": "Evren sonsuz bir merak konusu. Hangi gezegeni daha çok seviyorsun? 🌌"
+  },
+  {
+    "category": "Finans ve yatırım",
+    "input": ["finans", "yatırım", "para", "tasarruf"],
+    "response": "Finansal okuryazarlık önemli! Tasarruf ediyor musun? 💰"
+  },
+  {
+    "category": "Meditasyon ve farkındalık",
+    "input": ["meditasyon", "farkındalık", "nefes", "zihin"],
+    "response": "Derin bir nefes al... Şimdi anda kalmayı dene. 🌸"
+  }
+]
